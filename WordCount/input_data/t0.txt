@@ -1,0 +1,4 @@
+It's done in order to root the path (making it an absolute path).
+It ensures that the path is not relative but read from the root of the site.
+This allows one to move a file around and not have to change the links to the different resources.
+So you mean it allows the file with the link to move around, so that instead of the path being relative to the file's position, it is relative to the site root. Did I just say the same thing you said? Sometimes it helps me to repeat things. 

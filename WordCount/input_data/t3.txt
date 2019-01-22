@@ -1,0 +1,3 @@
+That's a root-relative link. It's a relative link 
+somewhat akin to ../) but it begins at the root of the site. If a page three levels deep on the site begins
+a link with the forward slash, the remainder of the path will be relative to the root of the site.

@@ -1,0 +1,4 @@
+Let's say if your browsing /cream-cakes/ then you have a link on 
+the page that has blah.html without the forward flash its going to 
+attempt to visit page /cream-cakes/blah.html while with the forward flash it'll 
+assume you mean the top level which will be domain.com/blah.html.

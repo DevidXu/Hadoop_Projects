@@ -1,0 +1,7 @@
+am a novice user and I am trying to install Oracle Java. The process calls for me to access
+Absolute paths always start with a /. This means the starting point of the path specification is fixed. 
+No matter where your current location is, an absolute path will always point 
+to the same location. The only exception is when you use a shell shortcut, 
+such as ~, at the start, where the shell will replace ~ with what is usually the absolute 
+path of your home directory. Even though it doesn't look like ~/bin starts with a
+when the shell presents its final form, it will have a leading
